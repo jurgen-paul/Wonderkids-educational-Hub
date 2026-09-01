@@ -1,0 +1,6 @@
+{
+  "name": "WonderKids",
+  "description": "Interactive kids educational platform with fun learning games, smart parent dashboard, progress tracking, and profile management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
